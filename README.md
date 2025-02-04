@@ -1,3 +1,3 @@
 # Locomotion
 Submodule for robot locomotion
-![368E7AE9-1CA1-423A-931E-F5861155A9A5](https://github.com/user-attachments/assets/8fa4a5af-2533-4f78-8b24-7c0b9afa74dd)
+![B7685731-B27D-4860-BF60-3AC685B49F74](https://github.com/user-attachments/assets/c23c35cc-b48f-4124-b1cf-a2cd45e557e0)
