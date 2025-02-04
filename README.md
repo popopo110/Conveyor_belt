@@ -1,2 +1,3 @@
 # Locomotion
-![96C846AC-A549-420B-B820-9DF10DAC83B9](https://github.com/user-attachments/assets/6f691987-98a7-4132-ac01-67359b898066)
+
+![368E7AE9-1CA1-423A-931E-F5861155A9A5](https://github.com/user-attachments/assets/8fa4a5af-2533-4f78-8b24-7c0b9afa74dd)
